@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: auth
-          image: syedaismatfarjana09/auth
+          image: us.gcr.io/wired-trees-317501/auth
 ---
 apiVersion: v1
 kind: Service
